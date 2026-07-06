@@ -34,8 +34,6 @@
 
 ## 🌟 Currently Working On
 
-- 🌦️ Weather Website
-- 🛒 E-Commerce Website
 - 💻 Java Programming
 - 🎨 Responsive UI Design
 
